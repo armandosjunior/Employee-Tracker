@@ -6,7 +6,7 @@ This Command-line tracking application was made to manage a company's employee d
 
 ### **Steps to get started:**
 ```
-- npm i
+- npm i (+ all dependencies)
 - node index
 ```
 ---
