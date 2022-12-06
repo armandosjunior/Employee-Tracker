@@ -7,7 +7,7 @@ This Command-line tracking application was made to manage a company's employee d
 ### **Steps to get started:**
 ```
 - npm i
-- node server.js
+- node index
 ```
 ---
 
@@ -32,6 +32,5 @@ This Command-line tracking application was made to manage a company's employee d
 
 ### **Steps for future development:**
 ```
-- Review Code & fix bugs to have a functioning backend
-- 
+- Review Code & fix bugs to have a functioning backend (unknown database error code)
 ```
